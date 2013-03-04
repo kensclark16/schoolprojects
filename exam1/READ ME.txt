@@ -1,0 +1,3 @@
+Exam 1
+
+Description: This program will show what a Piecewise function is like.
